@@ -10,4 +10,4 @@ fetch("https://api.telegram.org/bot7418874172:AAFy2mvuxosCEGJEKUls4EoXaSIcjfJ82A
   })
 });
 
-alert("🔥 تم تنفيذ السكربت من GitHub Pages!");
+alert("🔥 تم تنفيذ السكربت من  GitHub Pages!");
